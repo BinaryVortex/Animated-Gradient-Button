@@ -2,7 +2,7 @@
 
 A minimal, dependency-free animated gradient button built with pure HTML and CSS. Perfect for CTAs, landing pages, and UI experiments — easy to customize and accessible by default.
 
-![Animated Gradient Button Screenshot](./screenshot.png)
+![Animated Gradient Button Screenshot](./Screenshot%202024-05-30%20214310.png)
 
 Demo
 - Open the included `index.html` in your browser to see the button in action.
@@ -87,7 +87,7 @@ Accessibility tips
 File structure
 - `index.html` — demo page
 - `styles.css` — main CSS containing the animated gradient styles
-- `screenshot.png` — screenshot used in README
+- `Screenshot 2024-05-30 214310.png` — screenshot used in README
 
 Contributing
 - Found a bug or improvement? Open an issue.
